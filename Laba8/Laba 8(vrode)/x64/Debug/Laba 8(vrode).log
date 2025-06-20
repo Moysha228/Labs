@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+  Source.cpp
+  Создание кода...
+D:\Проекты\Laba 8(vrode)\Functions.cpp(16,1): warning C4715: CheckInputFile: значение возвращается не при всех путях выполнения
+  Laba 8(vrode).vcxproj -> D:\Проекты\Laba 8(vrode)\x64\Debug\Laba 8(vrode).exe
