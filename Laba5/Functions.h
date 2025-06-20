@@ -1,0 +1,14 @@
+void InputSize(size_t&);
+void Swap(int32_t&, int32_t&);
+void CreateMtr(int32_t**&, size_t, size_t);
+void DeleteMtr(int32_t**&, size_t);
+void AutoFillMtr(int32_t**, size_t, size_t, int32_t, int32_t);
+void ManualFillMtr(int32_t** mtr, size_t rows, size_t columns);
+void PrintMtr(int32_t**, size_t, size_t);
+bool IsRowNonNeg(int32_t*, size_t);
+int64_t ProductOfArray(int32_t*, size_t);
+int64_t ProductOfNonNegRows(int32_t**, size_t, size_t);
+int32_t FindMaxPosNum(int32_t**, size_t, size_t);
+void MakeRowTheFirst(int32_t**, size_t, size_t);
+void MakeColumnTheFirst(int32_t**, size_t, size_t);
+void MakeTheBiggestPosNumTheFirstByRowsAndColumnsSwap(int32_t**, size_t, size_t);
