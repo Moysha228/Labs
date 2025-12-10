@@ -8,12 +8,12 @@ private:
 	int32_t re;
 	int32_t im;
 public:
-	Complex();
-	Complex(int32_t, int32_t);            
+	//Complex();
+	Complex(int32_t = 0, int32_t = 0);            
 	Complex(const Complex&);
-	Complex(Complex&&);
-	void operator=(const Complex&);
-	void operator=(Complex&&);
+	Complex(Complex&&) noexcept;
+	Complex& operator=(const Complex&);
+	Complex& operator=(Complex&&) noexcept;
 	~Complex();
 	double module();
 	double arg();
@@ -51,9 +51,9 @@ public:
 	}
 	friend std::ostream& operator<<(std::ostream&, const Complex&);
 	friend void operator>>(std::istream&, Complex&);
-	void set_re(int32_t);
-	int32_t get_re();
-	void set_im(int32_t);
-	int32_t get_im();
+	void set_re(const int32_t);
+	int32_t get_re() const;
+	void set_im(const int32_t);
+	int32_t get_im() const;
 };
 #endif
