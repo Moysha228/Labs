@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Проекты\stack massivniy\Source.cpp(6,11): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  stack massivniy.vcxproj -> D:\Проекты\stack massivniy\x64\Debug\stack massivniy.exe
