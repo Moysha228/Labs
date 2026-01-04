@@ -1,0 +1,1657 @@
+Test number: 1. Itteration number: 1198. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 	0
+
+Test number: 2. Itteration number: 121. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 3. Itteration number: 32. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 4. Itteration number: 77. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 5. Itteration number: 225. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 6. Itteration number: 202. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 7. Itteration number: 497. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 8. Itteration number: 380. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 9. Itteration number: 59. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 10. Itteration number: 105. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 11. Itteration number: 1. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 12. Itteration number: 676. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 13. Itteration number: 576. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 14. Itteration number: 153. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 15. Itteration number: 161. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 16. Itteration number: 1395. Time of work: 0:0:8
+1 2 3 4 5 6 7 8 	0
+
+Test number: 17. Itteration number: 306. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 18. Itteration number: 4. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 19. Itteration number: 32. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 20. Itteration number: 229. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 21. Itteration number: 52. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 22. Itteration number: 619. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 23. Itteration number: 416. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 24. Itteration number: 251. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 25. Itteration number: 340. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 26. Itteration number: 12. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 27. Itteration number: 995. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 28. Itteration number: 93. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 29. Itteration number: 90. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 30. Itteration number: 71. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 31. Itteration number: 52. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 32. Itteration number: 289. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 33. Itteration number: 9. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 34. Itteration number: 25. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 35. Itteration number: 299. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 36. Itteration number: 148. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 37. Itteration number: 471. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 38. Itteration number: 244. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 39. Itteration number: 545. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 40. Itteration number: 66. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+1000, 8: 
+
+Test number: 1. Itteration number: 6767. Time of work: 0:0:43
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 2. Itteration number: 12532. Time of work: 0:1:18
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 1. Itteration number: 267. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 2. Itteration number: 706. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 3. Itteration number: 3980. Time of work: 0:0:27
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 4. Itteration number: 2242. Time of work: 0:0:14
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 5. Itteration number: 3. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 6. Itteration number: 1798. Time of work: 0:0:12
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 7. Itteration number: 7571. Time of work: 0:0:45
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 8. Itteration number: 4824. Time of work: 0:0:30
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 9. Itteration number: 657. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 10. Itteration number: 2623. Time of work: 0:0:17
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 11. Itteration number: 247. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 12. Itteration number: 1725. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 13. Itteration number: 166. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 14. Itteration number: 224. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 15. Itteration number: 2262. Time of work: 0:0:14
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 16. Itteration number: 3290. Time of work: 0:0:21
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 17. Itteration number: 446. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 18. Itteration number: 13422. Time of work: 0:1:22
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 19. Itteration number: 2600. Time of work: 0:0:16
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 20. Itteration number: 2070. Time of work: 0:0:13
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 21. Itteration number: 10053. Time of work: 0:1:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 22. Itteration number: 763. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 23. Itteration number: 2335. Time of work: 0:0:15
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 24. Itteration number: 369. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 25. Itteration number: 5323. Time of work: 0:0:32
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 26. Itteration number: 2405. Time of work: 0:0:15
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 27. Itteration number: 131. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 28. Itteration number: 5719. Time of work: 0:0:35
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 29. Itteration number: 1659. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 30. Itteration number: 2036. Time of work: 0:0:13
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 31. Itteration number: 1855. Time of work: 0:0:12
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 32. Itteration number: 1398. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 33. Itteration number: 13936. Time of work: 0:1:25
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 34. Itteration number: 1228. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 35. Itteration number: 2151. Time of work: 0:0:14
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 36. Itteration number: 3801. Time of work: 0:0:23
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 37. Itteration number: 575. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 38. Itteration number: 4054. Time of work: 0:0:25
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 39. Itteration number: 3064. Time of work: 0:0:19
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 40. Itteration number: 881. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 9 	0
+
+1000, 9:
+
+Test number: 1. Itteration number: 13220. Time of work: 0:1:57
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 2. Itteration number: 37818. Time of work: 0:5:29
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 3. Itteration number: 66884. Time of work: 0:9:24
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 4. Itteration number: 59017. Time of work: 0:8:34
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 5. Itteration number: 10387. Time of work: 0:1:32
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 6. Itteration number: 14232. Time of work: 0:2:6
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 7. Itteration number: 18888. Time of work: 0:2:44
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 8. Itteration number: 14425. Time of work: 0:2:8
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 9. Itteration number: 19438. Time of work: 0:2:51
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 10. Itteration number: 98009. Time of work: 0:13:60
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 16. Itteration number: 12645. Time of work: 0:1:52
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 11. Itteration number: 144239. Time of work: 0:21:1
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 12. Itteration number: 94797. Time of work: 0:12:33
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 13. Itteration number: 37407. Time of work: 0:5:25
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 14. Itteration number: 12616. Time of work: 0:1:52
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 15. Itteration number: 25367. Time of work: 0:3:44
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 16. Itteration number: 193293. Time of work: 0:21:23
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 17. Itteration number: 33977. Time of work: 0:3:30
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 18. Itteration number: 2875. Time of work: 0:0:18
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 19. Itteration number: 21771. Time of work: 0:2:12
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 20. Itteration number: 172211. Time of work: 0:17:36
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 21. Itteration number: 25589. Time of work: 0:2:38
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 22. Itteration number: 15361. Time of work: 0:1:35
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 23. Itteration number: 4085. Time of work: 0:0:26
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 24. Itteration number: 50424. Time of work: 0:5:12
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 25. Itteration number: 5950. Time of work: 0:0:37
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 26. Itteration number: 13124. Time of work: 0:1:20
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 27. Itteration number: 102713. Time of work: 0:10:21
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 28. Itteration number: 94615. Time of work: 0:9:36
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 29. Itteration number: 62818. Time of work: 0:6:27
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 30. Itteration number: 17544. Time of work: 0:1:47
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 31. Itteration number: 121190. Time of work: 0:12:57
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 32. Itteration number: 26506. Time of work: 0:2:52
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 33. Itteration number: 49952. Time of work: 0:5:15
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 34. Itteration number: 4361. Time of work: 0:0:28
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 35. Itteration number: 23356. Time of work: 0:2:28
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 36. Itteration number: 77486. Time of work: 0:7:56
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 37. Itteration number: 24220. Time of work: 0:2:32
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 38. Itteration number: 62473. Time of work: 0:6:28
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 39. Itteration number: 10044. Time of work: 0:1:2
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 40. Itteration number: 49857. Time of work: 0:5:8
+1 2 3 4 5 6 7 8 9 10 	0
+
+1000, 10:
+
+Test number: 1. Itteration number: 1. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 2. Itteration number: 1. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 3. Itteration number: 198. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 4. Itteration number: 253. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 5. Itteration number: 105. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 6. Itteration number: 44. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 7. Itteration number: 275. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 8. Itteration number: 106. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 9. Itteration number: 134. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 10. Itteration number: 15. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 11. Itteration number: 150. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 12. Itteration number: 151. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 13. Itteration number: 204. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 14. Itteration number: 505. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 	0
+
+Test number: 15. Itteration number: 64. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 16. Itteration number: 327. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 17. Itteration number: 65. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 18. Itteration number: 238. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 19. Itteration number: 499. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 	0
+
+Test number: 20. Itteration number: 82. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 21. Itteration number: 1083. Time of work: 0:0:14
+1 2 3 4 5 6 7 8 	0
+
+Test number: 22. Itteration number: 761. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 	0
+
+Test number: 23. Itteration number: 67. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 24. Itteration number: 9. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 25. Itteration number: 178. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 26. Itteration number: 381. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 27. Itteration number: 205. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 28. Itteration number: 259. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 29. Itteration number: 244. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 30. Itteration number: 69. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 31. Itteration number: 403. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 32. Itteration number: 111. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 33. Itteration number: 21. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 34. Itteration number: 950. Time of work: 0:0:12
+1 2 3 4 5 6 7 8 	0
+
+Test number: 35. Itteration number: 146. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 36. Itteration number: 43. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 37. Itteration number: 125. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 38. Itteration number: 1. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 39. Itteration number: 461. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 40. Itteration number: 305. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+2000, 8:
+
+Test number: 1. Itteration number: 2575. Time of work: 0:0:33
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 2. Itteration number: 3734. Time of work: 0:0:47
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 3. Itteration number: 3772. Time of work: 0:0:47
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 4. Itteration number: 4731. Time of work: 0:0:58
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 5. Itteration number: 137. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 6. Itteration number: 372. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 7. Itteration number: 334. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 8. Itteration number: 1816. Time of work: 0:0:24
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 9. Itteration number: 4869. Time of work: 0:0:60
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 10. Itteration number: 3167. Time of work: 0:0:39
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 11. Itteration number: 423. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 12. Itteration number: 1005. Time of work: 0:0:13
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 13. Itteration number: 384. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 14. Itteration number: 873. Time of work: 0:0:12
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 15. Itteration number: 1188. Time of work: 0:0:16
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 16. Itteration number: 2208. Time of work: 0:0:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 17. Itteration number: 506. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 18. Itteration number: 712. Time of work: 0:0:10
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 19. Itteration number: 134. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 20. Itteration number: 7329. Time of work: 0:1:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 21. Itteration number: 145. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 22. Itteration number: 392. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 23. Itteration number: 229. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 24. Itteration number: 2040. Time of work: 0:0:26
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 25. Itteration number: 2161. Time of work: 0:0:28
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 26. Itteration number: 823. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 27. Itteration number: 7296. Time of work: 0:1:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 28. Itteration number: 728. Time of work: 0:0:10
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 29. Itteration number: 2766. Time of work: 0:0:35
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 30. Itteration number: 2990. Time of work: 0:0:38
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 31. Itteration number: 2183. Time of work: 0:0:28
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 32. Itteration number: 3131. Time of work: 0:0:39
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 33. Itteration number: 487. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 34. Itteration number: 4890. Time of work: 0:0:60
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 35. Itteration number: 487. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 36. Itteration number: 1161. Time of work: 0:0:15
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 37. Itteration number: 2823. Time of work: 0:0:36
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 38. Itteration number: 1224. Time of work: 0:0:16
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 39. Itteration number: 1684. Time of work: 0:0:23
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 40. Itteration number: 3794. Time of work: 0:0:47
+1 2 3 4 5 6 7 8 9 	0
+
+2000, 9:
+
+Test number: 1. Itteration number: 14367. Time of work: 0:2:60
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 2. Itteration number: 28867. Time of work: 0:5:53
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 3. Itteration number: 4686. Time of work: 0:0:60
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 4. Itteration number: 578. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 5. Itteration number: 12959. Time of work: 0:2:40
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 6. Itteration number: 15641. Time of work: 0:3:12
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 7. Itteration number: 11122. Time of work: 0:2:19
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 8. Itteration number: 6141. Time of work: 0:1:18
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 9. Itteration number: 19561. Time of work: 0:4:1
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 10. Itteration number: 590. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 11. Itteration number: 22637. Time of work: 0:4:40
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 12. Itteration number: 45207. Time of work: 0:9:9
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 13. Itteration number: 8045. Time of work: 0:1:41
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 14. Itteration number: 16636. Time of work: 0:3:27
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 15. Itteration number: 16285. Time of work: 0:3:22
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 16. Itteration number: 8455. Time of work: 0:1:46
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 17. Itteration number: 18906. Time of work: 0:3:54
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 18. Itteration number: 132. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 19. Itteration number: 68818. Time of work: 0:14:9
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 20. Itteration number: 5468. Time of work: 0:1:10
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 21. Itteration number: 1089. Time of work: 0:0:16
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 22. Itteration number: 6958. Time of work: 0:1:28
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 23. Itteration number: 19710. Time of work: 0:4:7
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 24. Itteration number: 12669. Time of work: 0:2:38
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 25. Itteration number: 26026. Time of work: 0:5:22
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 26. Itteration number: 41059. Time of work: 0:8:46
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 27. Itteration number: 12337. Time of work: 0:2:51
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 28. Itteration number: 13297. Time of work: 0:3:53
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 29. Itteration number: 3480. Time of work: 0:1:5
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 30. Itteration number: 46010. Time of work: 0:13:28
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 31. Itteration number: 31176. Time of work: 0:6:35
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 32. Itteration number: 39740. Time of work: 0:8:31
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 33. Itteration number: 5152. Time of work: 0:1:6
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 34. Itteration number: 12056. Time of work: 0:2:31
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 35. Itteration number: 15284. Time of work: 0:3:11
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 36. Itteration number: 26436. Time of work: 0:5:27
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 37. Itteration number: 2017. Time of work: 0:0:27
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 38. Itteration number: 4093. Time of work: 0:0:53
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 39. Itteration number: 7552. Time of work: 0:1:34
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 40. Itteration number: 14652. Time of work: 0:3:3
+1 2 3 4 5 6 7 8 9 10 	0
+
+2000, 10:
+
+Test number: 1.	Itteration number: 57. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 2.	Itteration number: 128. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 3.	Itteration number: 314. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 4.	Itteration number: 419. Time of work: 0:0:8
+1 2 3 4 5 6 7 8 	0
+
+Test number: 5.	Itteration number: 116. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 6.	Itteration number: 743. Time of work: 0:0:15
+1 2 3 4 5 6 7 8 	0
+
+Test number: 7.	Itteration number: 116. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 8.	Itteration number: 772. Time of work: 0:0:15
+1 2 3 4 5 6 7 8 	0
+
+Test number: 9.	Itteration number: 910. Time of work: 0:0:18
+1 2 3 4 5 6 7 8 	0
+
+Test number: 10.	Itteration number: 497. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 	0
+
+Test number: 11.	Itteration number: 344. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 	0
+
+Test number: 12.	Itteration number: 15. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 13.	Itteration number: 1383. Time of work: 0:0:27
+1 2 3 4 5 6 7 8 	0
+
+Test number: 14.	Itteration number: 82. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 15.	Itteration number: 532. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 	0
+
+Test number: 16.	Itteration number: 1455. Time of work: 0:0:27
+1 2 3 4 5 6 7 8 	0
+
+Test number: 17.	Itteration number: 668. Time of work: 0:0:13
+1 2 3 4 5 6 7 8 	0
+
+Test number: 18.	Itteration number: 1. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 19.	Itteration number: 318. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 	0
+
+Test number: 20.	Itteration number: 108. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 21.	Itteration number: 252. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 22.	Itteration number: 215. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 23.	Itteration number: 28. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 24.	Itteration number: 914. Time of work: 0:0:17
+1 2 3 4 5 6 7 8 	0
+
+Test number: 25.	Itteration number: 705. Time of work: 0:0:14
+1 2 3 4 5 6 7 8 	0
+
+Test number: 26.	Itteration number: 942. Time of work: 0:0:18
+1 2 3 4 5 6 7 8 	0
+
+Test number: 27.	Itteration number: 49. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 28.	Itteration number: 44. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 29.	Itteration number: 36. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 30.	Itteration number: 514. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 	0
+
+Test number: 31.	Itteration number: 1189. Time of work: 0:0:22
+1 2 3 4 5 6 7 8 	0
+
+Test number: 32.	Itteration number: 1124. Time of work: 0:0:22
+1 2 3 4 5 6 7 8 	0
+
+Test number: 33.	Itteration number: 1018. Time of work: 0:0:19
+1 2 3 4 5 6 7 8 	0
+
+Test number: 34.	Itteration number: 234. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 35.	Itteration number: 348. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 36.	Itteration number: 259. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 37.	Itteration number: 499. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 	0
+
+Test number: 38.	Itteration number: 77. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 39.	Itteration number: 336. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 	0
+
+Test number: 40.	Itteration number: 180. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+3000, 8:
+
+Test number: 1.	Itteration number: 4263. Time of work: 0:1:24
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 2.	Itteration number: 1371. Time of work: 0:0:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 3.	Itteration number: 14149. Time of work: 0:4:35
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 4.	Itteration number: 5502. Time of work: 0:1:48
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 5.	Itteration number: 884. Time of work: 0:0:19
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 6.	Itteration number: 5210. Time of work: 0:1:42
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 7.	Itteration number: 1205. Time of work: 0:0:26
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 8.	Itteration number: 897. Time of work: 0:0:19
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 9.	Itteration number: 509. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 10.	Itteration number: 549. Time of work: 0:0:12
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 11.	Itteration number: 8644. Time of work: 0:2:49
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 12.	Itteration number: 6179. Time of work: 0:2:1
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 13.	Itteration number: 3526. Time of work: 0:1:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 14.	Itteration number: 12709. Time of work: 0:4:8
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 15.	Itteration number: 888. Time of work: 0:0:19
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 16.	Itteration number: 680. Time of work: 0:0:15
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 17.	Itteration number: 2128. Time of work: 0:0:44
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 18.	Itteration number: 1966. Time of work: 0:0:40
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 19.	Itteration number: 1500. Time of work: 0:0:32
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 20.	Itteration number: 8863. Time of work: 0:2:53
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 21.	Itteration number: 3218. Time of work: 0:1:5
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 22.	Itteration number: 3855. Time of work: 0:1:16
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 23.	Itteration number: 1203. Time of work: 0:0:26
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 24.	Itteration number: 2298. Time of work: 0:0:47
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 25.	Itteration number: 10838. Time of work: 0:3:30
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 26.	Itteration number: 9292. Time of work: 0:3:1
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 27.	Itteration number: 1720. Time of work: 0:0:35
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 28.	Itteration number: 2297. Time of work: 0:0:47
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 29.	Itteration number: 1374. Time of work: 0:0:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 30.	Itteration number: 3554. Time of work: 0:1:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 31.	Itteration number: 171. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 32.	Itteration number: 2301. Time of work: 0:0:47
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 33.	Itteration number: 3845. Time of work: 0:1:17
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 34.	Itteration number: 4520. Time of work: 0:1:30
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 35.	Itteration number: 2224. Time of work: 0:0:45
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 36.	Itteration number: 14952. Time of work: 0:4:52
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 37.	Itteration number: 2399. Time of work: 0:0:49
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 38.	Itteration number: 5538. Time of work: 0:1:49
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 39.	Itteration number: 5225. Time of work: 0:1:43
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 40.	Itteration number: 4882. Time of work: 0:1:37
+1 2 3 4 5 6 7 8 9 	0
+
+3000, 9:
+
+Test number: 1.	Itteration number: 25733. Time of work: 0:0:-85914
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 2.	Itteration number: 90188. Time of work: 0:28:0
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 3.	Itteration number: 98648. Time of work: 0:31:4
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 4.	Itteration number: 42745. Time of work: 0:13:35
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 5.	Itteration number: 101610. Time of work: 0:32:2
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 6.	Itteration number: 98792. Time of work: 0:31:1
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 7.	Itteration number: 73970. Time of work: 0:23:12
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 8.	Itteration number: 17797. Time of work: 0:5:39
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 9.	Itteration number: 52881. Time of work: 0:16:45
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 10.	Itteration number: 39280. Time of work: 0:12:29
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 11.	Itteration number: 9824. Time of work: 0:3:10
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 12.	Itteration number: 8808. Time of work: 0:2:51
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 13.	Itteration number: 46489. Time of work: 0:14:39
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 14.	Itteration number: 17165. Time of work: 0:5:52
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 15.	Itteration number: 64517. Time of work: 0:20:18
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 16.	Itteration number: 36602. Time of work: 0:11:33
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 17.	Itteration number: 26064. Time of work: 0:8:20
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 18.	Itteration number: 12892. Time of work: 0:4:6
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 19.	Itteration number: 63969. Time of work: 0:20:13
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 20.	Itteration number: 124820. Time of work: 0:39:6
+1 2 3 4 5 6 7 8 9 10 	0
+
+3000, 10:
+
+Test number: 1.	Itteration number: 1. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 2.	Itteration number: 2064. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 	0
+
+Test number: 3.	Itteration number: 970. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 4.	Itteration number: 97. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 5.	Itteration number: 736. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 6.	Itteration number: 1272. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 	0
+
+Test number: 7.	Itteration number: 5286. Time of work: 0:0:29
+1 2 3 4 5 6 7 8 	0
+
+Test number: 8.	Itteration number: 3928. Time of work: 0:0:21
+1 2 3 4 5 6 7 8 	0
+
+Test number: 9.	Itteration number: 178. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 10.	Itteration number: 2478. Time of work: 0:0:14
+1 2 3 4 5 6 7 8 	0
+
+Test number: 11.	Itteration number: 749. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 12.	Itteration number: 495. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 13.	Itteration number: 5781. Time of work: 0:0:31
+1 2 3 4 5 6 7 8 	0
+
+Test number: 14.	Itteration number: 391. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 15.	Itteration number: 1085. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 16.	Itteration number: 152. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 17.	Itteration number: 119. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 18.	Itteration number: 558. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 19.	Itteration number: 1828. Time of work: 0:0:10
+1 2 3 4 5 6 7 8 	0
+
+Test number: 20.	Itteration number: 498. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 21.	Itteration number: 624. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 22.	Itteration number: 1002. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 23.	Itteration number: 945. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 24.	Itteration number: 2. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 25.	Itteration number: 338. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 26.	Itteration number: 70. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 27.	Itteration number: 1912. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 	0
+
+Test number: 28.	Itteration number: 1994. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 	0
+
+Test number: 29.	Itteration number: 1443. Time of work: 0:0:8
+1 2 3 4 5 6 7 8 	0
+
+Test number: 30.	Itteration number: 3691. Time of work: 0:0:20
+1 2 3 4 5 6 7 8 	0
+
+Test number: 31.	Itteration number: 288. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 32.	Itteration number: 1767. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 	0
+
+Test number: 33.	Itteration number: 1052. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 34.	Itteration number: 1882. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 	0
+
+Test number: 35.	Itteration number: 259. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 36.	Itteration number: 471. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 37.	Itteration number: 4467. Time of work: 0:0:25
+1 2 3 4 5 6 7 8 	0
+
+Test number: 38.	Itteration number: 530. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 39.	Itteration number: 1464. Time of work: 0:0:8
+1 2 3 4 5 6 7 8 	0
+
+Test number: 40.	Itteration number: 47. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+900, 8:
+
+Test number: 1.	Itteration number: 409. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 2.	Itteration number: 3192. Time of work: 0:0:19
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 3.	Itteration number: 5663. Time of work: 0:0:34
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 4.	Itteration number: 18659. Time of work: 0:1:50
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 5.	Itteration number: 31069. Time of work: 0:3:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 6.	Itteration number: 50604. Time of work: 0:4:59
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 7.	Itteration number: 13737. Time of work: 0:1:22
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 8.	Itteration number: 4837. Time of work: 0:0:28
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 9.	Itteration number: 9664. Time of work: 0:0:58
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 10.	Itteration number: 9846. Time of work: 0:0:58
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 11.	Itteration number: 2094. Time of work: 0:0:13
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 12.	Itteration number: 28301. Time of work: 0:2:47
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 13.	Itteration number: 10555. Time of work: 0:1:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 14.	Itteration number: 4912. Time of work: 0:0:30
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 15.	Itteration number: 28719. Time of work: 0:2:50
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 16.	Itteration number: 6866. Time of work: 0:0:40
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 17.	Itteration number: 1846. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 18.	Itteration number: 25250. Time of work: 0:2:31
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 19.	Itteration number: 31595. Time of work: 0:3:6
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 20.	Itteration number: 54853. Time of work: 0:5:24
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 21.	Itteration number: 6429. Time of work: 0:0:38
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 22.	Itteration number: 922. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 23.	Itteration number: 14175. Time of work: 0:1:23
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 24.	Itteration number: 10036. Time of work: 0:1:0
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 25.	Itteration number: 6480. Time of work: 0:0:39
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 26.	Itteration number: 20359. Time of work: 0:2:1
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 27.	Itteration number: 15341. Time of work: 0:1:32
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 28.	Itteration number: 33851. Time of work: 0:3:21
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 29.	Itteration number: 13094. Time of work: 0:1:17
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 30.	Itteration number: 4004. Time of work: 0:0:25
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 31.	Itteration number: 80695. Time of work: 0:7:58
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 32.	Itteration number: 48701. Time of work: 0:4:48
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 33.	Itteration number: 10541. Time of work: 0:1:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 34.	Itteration number: 7439. Time of work: 0:0:44
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 35.	Itteration number: 9114. Time of work: 0:0:55
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 36.	Itteration number: 10800. Time of work: 0:1:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 37.	Itteration number: 55278. Time of work: 0:5:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 38.	Itteration number: 31553. Time of work: 0:3:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 39.	Itteration number: 22219. Time of work: 0:2:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 40.	Itteration number: 5678. Time of work: 0:0:34
+1 2 3 4 5 6 7 8 9 	0
+
+900, 9:
+
+Test number: 1.	Itteration number: 297350. Time of work: 0:28:20
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 2.	Itteration number: 50964. Time of work: 0:4:52
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 3.	Itteration number: 43103. Time of work: 0:4:11
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 4.	Itteration number: 188584. Time of work: 0:0:-85313
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 5.	Itteration number: 58957. Time of work: 0:5:52
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 6.	Itteration number: 255242. Time of work: 0:24:4
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 7.	Itteration number: 161700. Time of work: 0:15:30
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 8.	Itteration number: 630990. Time of work: 1:0:30
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 9.	Itteration number: 202623. Time of work: 0:19:22
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 10.	Itteration number: 132763. Time of work: 0:12:46
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 11.	Itteration number: 36177. Time of work: 0:3:28
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 12.	Itteration number: 64740. Time of work: 0:6:15
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 13.	Itteration number: 27423. Time of work: 0:2:38
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 14.	Itteration number: 480427. Time of work: 0:46:4
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 15.	Itteration number: 101743. Time of work: 0:9:46
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 16.	Itteration number: 201258. Time of work: 0:19:19
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 17.	Itteration number: 217242. Time of work: 0:20:45
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 18.	Itteration number: 285340. Time of work: 0:27:39
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 19.	Itteration number: 81773. Time of work: 0:7:52
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 20.	Itteration number: 506. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 21.	Itteration number: 272494. Time of work: 0:26:12
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 22.	Itteration number: 179675. Time of work: 0:17:22
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 23.	Itteration number: 205051. Time of work: 0:19:37
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 24.	Itteration number: 128037. Time of work: 0:12:19
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 25.	Itteration number: 211937. Time of work: 0:20:16
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 26.	Itteration number: 37512. Time of work: 0:3:38
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 27.	Itteration number: 88313. Time of work: 0:8:33
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 28.	Itteration number: 58487. Time of work: 0:5:42
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 29.	Itteration number: 126071. Time of work: 0:12:3
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 30.	Itteration number: 187731. Time of work: 0:18:11
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 31.	Itteration number: 28616. Time of work: 0:2:45
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 32.	Itteration number: 301352. Time of work: 0:29:17
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 33.	Itteration number: 33342. Time of work: 0:3:15
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 34.	Itteration number: 41841. Time of work: 0:3:59
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 35.	Itteration number: 26450. Time of work: 0:2:33
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 36.	Itteration number: 609611. Time of work: 0:58:31
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 37.	Itteration number: 208017. Time of work: 0:20:3
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 38.	Itteration number: 74968. Time of work: 0:7:11
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 39.	Itteration number: 165054. Time of work: 0:16:9
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 40.	Itteration number: 88443. Time of work: 0:8:35
+1 2 3 4 5 6 7 8 9 10 	0
+
+900, 10:
+
+Test number: 1.	Itteration number: 442. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 2.	Itteration number: 127. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 3.	Itteration number: 2828. Time of work: 0:0:14
+1 2 3 4 5 6 7 8 	0
+
+Test number: 4.	Itteration number: 9775. Time of work: 0:0:48
+1 2 3 4 5 6 7 8 	0
+
+Test number: 5.	Itteration number: 665. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 6.	Itteration number: 529. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 7.	Itteration number: 2780. Time of work: 0:0:13
+1 2 3 4 5 6 7 8 	0
+
+Test number: 8.	Itteration number: 491. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 9.	Itteration number: 239. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 10.	Itteration number: 599. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 11.	Itteration number: 719. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 12.	Itteration number: 17. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 13.	Itteration number: 522. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 	0
+
+Test number: 14.	Itteration number: 851. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 15.	Itteration number: 1017. Time of work: 0:0:5
+1 2 3 4 5 6 7 8 	0
+
+Test number: 16.	Itteration number: 648. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 17.	Itteration number: 847. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 18.	Itteration number: 7886. Time of work: 0:0:38
+1 2 3 4 5 6 7 8 	0
+
+Test number: 19.	Itteration number: 4018. Time of work: 0:0:19
+1 2 3 4 5 6 7 8 	0
+
+Test number: 20.	Itteration number: 192. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 21.	Itteration number: 1241. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 22.	Itteration number: 2074. Time of work: 0:0:10
+1 2 3 4 5 6 7 8 	0
+
+Test number: 23.	Itteration number: 5799. Time of work: 0:0:28
+1 2 3 4 5 6 7 8 	0
+
+Test number: 24.	Itteration number: 1948. Time of work: 0:0:10
+1 2 3 4 5 6 7 8 	0
+
+Test number: 25.	Itteration number: 4911. Time of work: 0:0:23
+1 2 3 4 5 6 7 8 	0
+
+Test number: 26.	Itteration number: 117. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 	0
+
+Test number: 27.	Itteration number: 1841. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 	0
+
+Test number: 28.	Itteration number: 1142. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 29.	Itteration number: 2377. Time of work: 0:0:11
+1 2 3 4 5 6 7 8 	0
+
+Test number: 30.	Itteration number: 695. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 31.	Itteration number: 1634. Time of work: 0:0:8
+1 2 3 4 5 6 7 8 	0
+
+Test number: 32.	Itteration number: 8888. Time of work: 0:0:42
+1 2 3 4 5 6 7 8 	0
+
+Test number: 33.	Itteration number: 1273. Time of work: 0:0:6
+1 2 3 4 5 6 7 8 	0
+
+Test number: 34.	Itteration number: 2451. Time of work: 0:0:12
+1 2 3 4 5 6 7 8 	0
+
+Test number: 35.	Itteration number: 644. Time of work: 0:0:3
+1 2 3 4 5 6 7 8 	0
+
+Test number: 36.	Itteration number: 1. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 	0
+
+Test number: 37.	Itteration number: 721. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+Test number: 38.	Itteration number: 3559. Time of work: 0:0:17
+1 2 3 4 5 6 7 8 	0
+
+Test number: 39.	Itteration number: 1660. Time of work: 0:0:8
+1 2 3 4 5 6 7 8 	0
+
+Test number: 40.	Itteration number: 974. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 	0
+
+800, 8:
+
+Test number: 1.	Itteration number: 12385. Time of work: 0:1:10
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 2.	Itteration number: 7985. Time of work: 0:0:42
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 3.	Itteration number: 12042. Time of work: 0:1:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 4.	Itteration number: 32968. Time of work: 0:2:51
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 5.	Itteration number: 6504. Time of work: 0:0:34
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 6.	Itteration number: 27132. Time of work: 0:2:19
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 7.	Itteration number: 35140. Time of work: 0:3:3
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 8.	Itteration number: 7915. Time of work: 0:0:41
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 9.	Itteration number: 9821. Time of work: 0:0:52
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 10.	Itteration number: 29754. Time of work: 0:2:35
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 11.	Itteration number: 17805. Time of work: 0:1:34
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 12.	Itteration number: 26. Time of work: 0:0:0
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 13.	Itteration number: 36928. Time of work: 0:3:12
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 14.	Itteration number: 7316. Time of work: 0:0:38
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 15.	Itteration number: 5782. Time of work: 0:0:30
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 16.	Itteration number: 8184. Time of work: 0:0:42
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 17.	Itteration number: 364. Time of work: 0:0:2
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 18.	Itteration number: 743. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 19.	Itteration number: 12161. Time of work: 0:1:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 20.	Itteration number: 14757. Time of work: 0:1:17
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 21.	Itteration number: 37113. Time of work: 0:3:11
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 22.	Itteration number: 17013. Time of work: 0:1:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 23.	Itteration number: 1699. Time of work: 0:0:9
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 24.	Itteration number: 30518. Time of work: 0:2:41
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 25.	Itteration number: 79796. Time of work: 0:6:58
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 26.	Itteration number: 19058. Time of work: 0:1:39
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 27.	Itteration number: 16466. Time of work: 0:1:24
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 28.	Itteration number: 16724. Time of work: 0:1:26
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 29.	Itteration number: 16860. Time of work: 0:1:28
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 30.	Itteration number: 830. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 31.	Itteration number: 1253. Time of work: 0:0:7
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 32.	Itteration number: 7383. Time of work: 0:0:38
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 33.	Itteration number: 9556. Time of work: 0:0:50
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 34.	Itteration number: 7511. Time of work: 0:0:39
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 35.	Itteration number: 5631. Time of work: 0:0:29
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 36.	Itteration number: 15178. Time of work: 0:1:19
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 37.	Itteration number: 19683. Time of work: 0:1:42
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 38.	Itteration number: 155. Time of work: 0:0:1
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 39.	Itteration number: 10547. Time of work: 0:0:55
+1 2 3 4 5 6 7 8 9 	0
+
+Test number: 40.	Itteration number: 17307. Time of work: 0:1:30
+1 2 3 4 5 6 7 8 9 	0
+
+800, 9:
+
