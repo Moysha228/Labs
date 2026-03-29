@@ -1,0 +1,69 @@
+Test number: 26.	Itteration number: 190170. Time of work: 0:20:53
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 27.	Itteration number: 92962. Time of work: 0:10:11
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 28.	Itteration number: 4947. Time of work: 0:0:33
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 29.	Itteration number: 47456. Time of work: 0:5:11
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 30.	Itteration number: 182860. Time of work: 0:20:22
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 31.	Itteration number: 143614. Time of work: 0:15:33
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 32.	Itteration number: 326536. Time of work: 0:35:38
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 33.	Itteration number: 468106. Time of work: 0:51:23
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 34.	Itteration number: 37003. Time of work: 0:3:58
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 35.	Itteration number: 168125. Time of work: 0:18:1
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 36.	Itteration number: 197298. Time of work: 0:21:39
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 37.	Itteration number: 165566. Time of work: 0:18:5
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 38.	Itteration number: 15571. Time of work: 0:1:41
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 39.	Itteration number: 605. Time of work: 0:0:4
+1 2 3 4 5 6 7 8 9 10 	0
+
+Test number: 40.	Itteration number: 25862. Time of work: 0:2:50
+1 2 3 4 5 6 7 8 9 10 	0
+
+800, 10:
+
+void Analize_result(std::ifstream result) {
+	std::string line{};
+	std::string itt_num_str{};
+	int64_t itt_num_summ{};
+	size_t itt_num_amount{};
+	while (std::getline(result, line, '\n')) {
+		if (line[0] == 'T') {
+			++itt_num_amount;
+			for (size_t i{ 36 }; i < line.find_first_of(".", 36); ++i) {
+				itt_num_str += line[i];
+			}
+			itt_num_summ += std::stoi(itt_num_str);
+			itt_num_str.erase();
+		}
+		//else if (line.find_first_of("123456789") == 0) {
+		//	std::getline(results, line);
+		//	line.erase();
+		//}
+		line.erase();
+	}
+	std::cout << itt_num_summ / itt_num_amount;
+}
